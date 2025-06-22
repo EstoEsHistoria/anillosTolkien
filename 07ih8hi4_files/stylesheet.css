@@ -11,6 +11,12 @@
   max-width: 100%;
   width: 100%;
 }
+.ancho_imagen {
+  height: auto;
+  max-height: 50%;
+  max-width: 50%;
+  width: 90%;
+}
 .ancho1 {
   height: auto;
   max-height: 100%;
