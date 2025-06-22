@@ -1,0 +1,12 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  font-family: Ringbearer;
+  src: url(OEBPS/Fonts/Ringbearer.ttf);
+}
+@font-face {
+  font-family: Tolkien;
+  src: url(OEBPS/Fonts/tolkien.ttf);
+}
